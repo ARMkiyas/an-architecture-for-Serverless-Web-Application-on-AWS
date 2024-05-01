@@ -1,4 +1,4 @@
-## Serverless Web Application on AWS with Encrypted RDS Backups in S3, RDS Proxy, and Deployment Automation
+
 
 This project demonstrates a secure, scalable, and performant serverless web application architecture on Amazon Web Services (AWS). It utilizes serverless services, best practices for secure backups, and RDS Proxy for enhanced performance.
 
@@ -19,7 +19,7 @@ This architecture features the following components:
 * **User-Managed Key Encryption:** Encrypts RDS snapshots at rest in S3 using a customer-managed KMS key for enhanced security.
 * **Cross-Region Replication:** Replicates RDS snapshots to a different AWS region for disaster recovery purposes.
 
-###  Deployment Automation (Optional)
+###  Deployment Guide (Optional)
 
 This project can be deployed manually or through automation using tools like AWS CloudFormation. Here's a high-level overview of the deployment steps (replace placeholders with your specific details):
 
