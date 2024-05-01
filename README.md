@@ -2,7 +2,7 @@
 
 This project demonstrates a secure, scalable, and performant serverless web application architecture on Amazon Web Services (AWS). It utilizes serverless services, best practices for secure backups, and RDS Proxy for enhanced performance.
 
-
+![architecture](https://github.com/ARMkiyas/an-architecture-for-Serverless-Web-Application-on-AWS/blob/93aefa95b788aeb120e08a9cf4133a12f488643e/architucture-img.jpg)
 
 ###  Description
 
